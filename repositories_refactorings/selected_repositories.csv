@@ -1,0 +1,11 @@
+Repo Name,Domain,URL,Description,Number of Stars,Number of Commits
+Alamofire/Alamofire,Networking,https://github.com/Alamofire/Alamofire,Elegant HTTP networking library in Swift.,42.1k,"1,700"
+onevcat/Kingfisher,Image Loading,https://github.com/onevcat/Kingfisher,"A lightweight, pure-Swift library for downloading and caching images.",24.1k,"3,200"
+kean/Nuke,Image Loading,https://github.com/kean/Nuke,A powerful image loading and caching system.,8.1k,"1,000"
+airbnb/lottie-ios,UI - Animation,https://github.com/airbnb/lottie-ios,An iOS library to natively render After Effects vector animations.,26.5k,"1,300"
+ChartsOrg/Charts,UI - Charting,https://github.com/ChartsOrg/Charts,A powerful charting library for iOS/tvOS/macOS.,28.0k,"1,900"
+realm/realm-swift,Database,https://github.com/realm/realm-swift,Realm is a mobile database: a replacement for Core Data & SQLite.,16.5k,"12,500"
+stephencelis/SQLite.swift,Database,https://github.com/stephencelis/SQLite.swift,"A type-safe, Swift-language layer over SQLite3.",10.3k,"1,200"
+SwiftGen/SwiftGen,Utility - Code Gen,https://github.com/SwiftGen/SwiftGen,A tool to auto-generate Swift code for your project's resources.,9.4k,"1,300"
+bluejay,BLE,https://github.com/steamclock/bluejay,Bluejay is a simple Swift framework for building reliable Bluetooth LE apps.,1.1k,280
+iina/iina,UI (App),https://github.com/iina/iina,The modern video player for macOS.,42.5k,"3,100"
