@@ -1,2 +1,5 @@
 # SwiftRefactoringCatalog
-It contains the survey data for the introduced Swift refactoring catalog.
+**It contains:**
+  - Selected Swift repos.
+  - Detected refactorings in each repo.
+  - Survey data for the introduced Swift refactoring catalog.
