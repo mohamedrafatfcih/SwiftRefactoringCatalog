@@ -6,7 +6,9 @@ Welcome to the official repository for the **Swift Refactoring Catalog**. This r
 >
 > 🏛️ Published in the *Journal of Software: Evolution and Process*.
 >
-> 🔗 [**Read the full paper here**](https://onlinelibrary.wiley.com/doi/10.1002/smr.70180)
+> 🔓 [**Exclusive Access: Read the full paper for free here**](https://onlinelibrary.wiley.com/share/author/SXQM87PPVBPS38BBJMU3?target=10.1002/smr.70180)
+> 
+> 🔗 [Official Journal Page & DOI](https://onlinelibrary.wiley.com/doi/10.1002/smr.70180)
 
 ## 📖 About the Project
 
@@ -71,7 +73,6 @@ If you use this catalog, dataset, or find this research helpful in your work, pl
   eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/smr.70180},
   year = {2026}
 }
-
 ```
 
 ## 👨‍🏫 Authors
